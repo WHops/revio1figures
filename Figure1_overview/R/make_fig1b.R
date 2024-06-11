@@ -4,7 +4,7 @@ library(dplyr)
 
 # Load the data
 data_file <- '../data/1b.tsv'
-df <- read.csv(data_file, sep = '\t', header = TRUE)
+df <- read.csv(data_file, sep = ' ', header = TRUE)
 
 # Check the data
 print(df)

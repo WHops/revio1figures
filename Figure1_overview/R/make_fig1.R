@@ -19,7 +19,7 @@ df <- df %>%
          Auto_Resolved_Percent = Auto_Resolved / Value * 100,
          Visual_Resolved_Percent = Visual_Resolved / Value * 100,
          Unresolved_Percent = Unresolved / Value * 100,
-         Category = factor(Category, levels = (c("Homologous (pseudo) genes", "Repeat locus", 
+         Category = factor(Category, levels = rev(c("Homologous (pseudo) genes", "Repeat locus", 
                                                     "Pseudoautosomal Regions X+Y", "Homopolymer repeat", 
                                                     "Complex structural rearrangement", "Imprinting/Methylation", 
                                                     "Other"))))
@@ -50,7 +50,7 @@ p2 <- ggplot(df, aes(x = Category)) +
   geom_bar(aes(y = Auto_Resolved_Percent, fill = "Auto Resolved"), stat = "identity", width = 0.7) +
   coord_flip() +
   theme_minimal(base_size = 15) +
-  scale_fill_manual(values = c("Auto Resolved" = "#a6cee3", "Visually Resolved" = "#b2df8a", "Unresolved" = "#fb9a99")) +
+  scale_fill_manual(values = c("Auto Resolved" = "#b2df8a", "Visually Resolved" = "#a6cee3", "Unresolved" = "#fb9a99")) +
   labs(x = "Category", y = "Percentage of Cases", title = "Distribution of Cases by Category") +
   scale_y_continuous(labels = scales::percent_format(scale = 1), limits = c(0, 100)) +
   geom_text(data = df %>% filter(Auto_Resolved_Percent > 0), aes(y = Auto_Resolved_Percent / 2, label = paste0(round(Auto_Resolved_Percent), "%")), size = 4, color = "black") +
