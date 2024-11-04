@@ -1,0 +1,7 @@
+# Figure 2 creation
+
+Panels A,B,D,E: IGV views; created by loading relevant data tracks and navigating to relevant positions. 
+
+Panels C, F:
+	(1) Generate local de-novo assemblies by collecting reads from the region of interest and handing them to hifiasm for assembly (scripts/generate_localized_assembly.sh)
+	(2) Visualize resulting assemblies by running NAHRwhals v1.4 (https://github.com/WHops/NAHRwhals)

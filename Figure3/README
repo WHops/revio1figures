@@ -1,0 +1,4 @@
+# Usage
+
+cd Figure3
+Rscript R/create_downsample_figure3.R

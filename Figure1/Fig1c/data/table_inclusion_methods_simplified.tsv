@@ -1,0 +1,145 @@
+1	1	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+2	2	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+2	3	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+2	4	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+3	5	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+3	6	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+4	7	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+4	8	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+4	9	SV	Auto-called:no, Visual detection:no	Complex rearrangement	Complex rearrangement
+5	10	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+6	11	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+6	12	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+6	13	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+7	14	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+7	15	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+8	16	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+9	17	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+9	18	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+9	19	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+9	20	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+9	21	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+10	22	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+10	23	SV	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+11	24	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+12	25	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+12	26	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+13	27	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+13	28	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+14	29	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+15	30	SV	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+16	31	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+17	32	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+18	33	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+19	34	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+19	35	SV	Auto-called:no, Visual detection:no	Complex rearrangement	Complex rearrangement
+19	36	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+20	37	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+21	38	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+22	39	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+23	40	STR	Auto-called:no, Visual detection:no	Repeat locus	Repeat locus
+24	41	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+25	42	SV	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+26	43	SV	Auto-called:no, Visual detection:no	Complex rearrangement	Complex rearrangement
+27	44	SV	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+27	45	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+27	46	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+28	47	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+29	48	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+30	49	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+30	50	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+30	51	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+31	52	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+31	53	SV	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+32	54	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+33	55	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+34	56	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+35	57	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+35	58	SV	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+36	59	SV	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+37	60	SV	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+37	61	SNV/Indel	Auto-called:no, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+37	62	SNV/Indel	Auto-called:no, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+37	63	SNV/Indel	Auto-called:no, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+38	64	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+38	65	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+38	66	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+39	67	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+40	68	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+41	69	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+42	70	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+43	71	MEI	Auto-called:no, Visual detection:yes	Mobile element insertion	Other Indel / SV
+44	72	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+44	73	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+45	74	SV	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+46	75	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+46	76	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+47	77	STR	Auto-called:no, Visual detection:no	Repeat locus	Repeat locus
+48	78	STR	Auto-called:no, Visual detection:no	Repeat locus	Repeat locus
+49	79	STR	Auto-called:no, Visual detection:no	Repeat locus	Repeat locus
+49	80	STR	Auto-called:no, Visual detection:no	Repeat locus	Repeat locus
+50	81	STR	Auto-called:no, Visual detection:yes	Repeat locus	Repeat locus
+51	82	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+52	83	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+53	84	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+54	85	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+55	86	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+55	87	SV	Auto-called:no, Visual detection:yes	Complex rearrangement	Complex rearrangement
+56	88	SV	Auto-called:yes, Visual detection:yes	Chromosome X	Other Indel / SV
+57	89	Region of Homozygosity	Auto-called:N/A, Visual detection:yes	Region of Homozygosity	Run of Homozygosity
+58	90	SV	Auto-called:yes, Visual detection:yes	Phasing	Unphased variant pair
+58	91	SV	Auto-called:yes, Visual detection:yes	Phasing	Unphased variant pair
+58	92	SV	Auto-called:yes, Visual detection:yes	Phasing	Unphased variant pair
+59	93	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+60	94	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+60	95	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+61	96	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+61	97	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+62	98	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+63	99	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+64	100	Methylation 	Auto-called:N/A, Visual detection:yes	Imprinting	Imprinting
+65	101	Methylation 	Auto-called:N/A, Visual detection:yes	Imprinting	Imprinting
+66	102	Methylation 	Auto-called:N/A, Visual detection:yes	Imprinting	Imprinting
+66	103	Methylation 	Auto-called:N/A, Visual detection:yes	Imprinting	Imprinting
+67	104	SNV/Indel	Auto-called:yes, Visual detection:yes	Imprinting	Imprinting
+68	105	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+69	106	SV	Auto-called:yes, Visual detection:yes	Region of complexity	Complex rearrangement
+70	107	SV	Auto-called:no, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+71	108	SV	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+71	109	SV	Auto-called:no, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+72	110	SNV/Indel	Auto-called:yes, Visual detection:yes	Homopolymer repeat	Other Indel / SV
+73	111	SNV/Indel	Auto-called:yes, Visual detection:yes	Homopolymer repeat	Other Indel / SV
+74	112	SV	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+75	113	SV	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+76	114	SNV/Indel	Auto-called:yes, Visual detection:yes	Phasing	Unphased variant pair
+76	115	SV	Auto-called:yes, Visual detection:yes	Phasing	Unphased variant pair
+77	116	SV	Auto-called:yes, Visual detection:yes	Imprinting	Imprinting
+78	117	SV	Auto-called:yes, Visual detection:yes	Imprinting	Imprinting
+79	118	Methylation 	Auto-called:N/A, Visual detection:no	(Skewed) X-inactivation	(Skewed) X-inactivation
+80	119	Methylation 	Auto-called:N/A, Visual detection:no	(Skewed) X-inactivation	(Skewed) X-inactivation
+81	120	SV	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+82	121	SV	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+83	122	SV	Auto-called:yes, Visual detection:yes	Pseudoautosomal Region	Variation in homologous regions / pseudogenes
+84	123	SV	Auto-called:yes, Visual detection:yes	Pseudoautosomal Region	Variation in homologous regions / pseudogenes
+85	124	SNV/Indel	Auto-called:yes, Visual detection:yes	Pseudoautosomal Region	Variation in homologous regions / pseudogenes
+86	125	SV	Auto-called:yes, Visual detection:yes	Pseudoautosomal Region	Variation in homologous regions / pseudogenes
+87	126	SV	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+88	127	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+89	128	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+90	129	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+90	130	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+91	131	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+92	132	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+92	133	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+93	134	SV	Auto-called:yes, Visual detection:yes	Dutch founder single exon deletion	Other Indel / SV
+94	135	mtDNA	Auto-called:yes, Visual detection:yes	Mitochondrial DNA variant	Mitochondrial DNA variant
+95	136	STR	Auto-called:yes, Visual detection:yes	Repeat locus	Repeat locus
+96	137	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+96	138	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+96	139	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+97	140	SNV/Indel	Auto-called:yes, Visual detection:yes	Homologous regions/ Pseudogenes	Variation in homologous regions / pseudogenes
+98	141	SNV/Indel	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+98	142	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+98	143	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+99	144	SV	Auto-called:yes, Visual detection:yes	Complex rearrangement	Complex rearrangement
+100	145	Methylation 	Auto-called:N/A, Visual detection:yes	(Skewed) X-inactivation	(Skewed) X-inactivation

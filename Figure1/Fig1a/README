@@ -1,0 +1,4 @@
+Usage:
+
+Rscript fig_parliament_seats.R --in_tsv data/derived_from_s1/table_inclusion_methods_simplified.tsv --out_pdf fig1a_raw.pdf
+

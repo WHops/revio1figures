@@ -1,0 +1,3 @@
+# Usage
+
+Rscript make_fig1b.R --input data/tests_list.tsv --output fig1b_raw.pdf

@@ -1,0 +1,3 @@
+# Usage
+
+Rscript fig_1c.R --in_tsv data/table_inclusion_methods_simplified.tsv --out_pdf Fig1c_raw.pdf
